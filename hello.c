@@ -1,7 +1,8 @@
 #include <stdio.h>
+char *hello();
 
 char *hello() {
-    return "hello, world";
+    return "I am Child1";
 }
 
 char *hello2() {
