@@ -2,7 +2,7 @@
 char *hello();
 
 char *hello() {
-    return "hello, world";
+    return "I am Child1";
 }
 
 int main(void) {
